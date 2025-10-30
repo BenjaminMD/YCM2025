@@ -1,7 +1,7 @@
 # YCM2025
 ## Conference Poster
 
-This repository hosts the PDF version of the poster presented at YCM2025 (HZB / BESSY II, Berlin). The poster outlines the method and main results.
+This repository hosts the PDF version of the poster presented at YCM2025 (HZB / BESSY II, Berlin)
 
 ### Poster Details
 
