@@ -18,6 +18,5 @@ We present a TDS modeling and fitting approach that represents **correlated** at
 
 ### Poster Preview
 
-A preview of the poster is shown below. You can download the full PDF [here](YCM2025_TDS_JADP_poster.pdf).
+You can download the full PDF [here](YCM2025_TDS_JADP_poster.pdf).
 
-![Poster Preview](YCM2025_TDS_JADP_poster.jpg)
